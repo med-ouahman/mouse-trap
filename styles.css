@@ -1,0 +1,23 @@
+body {
+    background: #201e1eea;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    position: relative;
+    cursor: none;
+}
+
+#trap {
+    width: 50%;
+    height: 40vh;
+    border: 2px solid #ffffff72;
+}
+
+.cursor {
+    width: 50px;
+    height: 50px;
+    background: violet;
+    border-radius: 50%;
+    position: absolute;
+}
